@@ -29,10 +29,10 @@ const Navbar = () => {
         to="/"
         className="flex items-center justify-center w-10 h-10 rounded-full border-2 border-black text-black font-bold text-lg bg-light-blue-700"
       >
-        d
+        ABC
       </Link>
       <span className="ml-2 text-black font-mono italic text-2xl font-bold">
-        dalVacationHome
+        BnbClone
       </span>
       <div className="ml-auto flex gap-2">
         {userRole && userRole === "admin0" && (
